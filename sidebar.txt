@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cbu:home|Door43 (cbu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cbu|d43-cbu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cbu/archive/master.zip|d43-cbu.zip]]
+
+**Recent Changes**
+{{changes>ns = cbu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cbu|Ethnologue data]]
+
